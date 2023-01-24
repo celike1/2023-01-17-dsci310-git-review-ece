@@ -13,4 +13,11 @@ Intro git demo review
 - `git pull <where> <what>` : take remote commits on `what`,  and pull from `<where>`
     - e.g. , `git pull origin main`
 
+
+## branches
+
+- `git branch <name>` : create a branch named <branch> where ever you are (`HEAD`)
+- `git switch <name>` : go to that branch 
+    - `git  checkout <name>` : older way to move to branch
+
     
