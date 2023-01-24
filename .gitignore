@@ -1,3 +1,4 @@
 ignore.me
 .DS_Store
 output/
+data/
