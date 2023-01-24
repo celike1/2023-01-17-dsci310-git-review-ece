@@ -1,4 +1,4 @@
-# 2023-01-17-dsci310-git-review-ece
+# 2023-01-17: DSCI 310
 Intro git demo review
 
 - `git clone <URL>` : takes what's on github and does a one time download to your computer
@@ -6,3 +6,5 @@ Intro git demo review
 - `git add <FILE>` : add the <FILE>s to the staging area
 - `git commit`: create the commit (aka snapshot)
     - `git commmit -m "MESSAGE"` : create the git message directly in the command line
+    
+- `git push origin main`: sends code from branch `main` local computer to the remote `origin`
